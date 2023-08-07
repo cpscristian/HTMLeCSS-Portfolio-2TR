@@ -1,0 +1,23 @@
+.Calamitas{
+    border-radius: 100%;
+    margin-top: 275px;
+}
+.titulo{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size: 50px;
+}
+.subtitulo{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size: 30px;
+}
+#divGrandona{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-image: url("file:///C:/Users/cristian_p_santos/Desktop/calamitymodbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
